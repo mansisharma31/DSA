@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mansisharma31/DSA/tree/master/0048-rotate-image) |
+| [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mansisharma31/DSA/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
