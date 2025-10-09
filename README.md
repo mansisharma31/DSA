@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mansisharma31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mansisharma31/DSA/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mansisharma31/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/mansisharma31/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mansisharma31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mansisharma31/DSA/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mansisharma31/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/mansisharma31/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
