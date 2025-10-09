@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mansisharma31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mansisharma31/DSA/tree/master/0907-koko-eating-bananas) |
+| [2047-find-a-peak-element-ii](https://github.com/mansisharma31/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mansisharma31/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mansisharma31/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mansisharma31/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/mansisharma31/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mansisharma31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mansisharma31/DSA/tree/master/0907-koko-eating-bananas) |
+| [2047-find-a-peak-element-ii](https://github.com/mansisharma31/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
