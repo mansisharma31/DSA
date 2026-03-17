@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mansisharma31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mansisharma31/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mansisharma31/DSA/tree/master/0907-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mansisharma31/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mansisharma31/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mansisharma31/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/mansisharma31/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mansisharma31/DSA/tree/master/0048-rotate-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mansisharma31/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/mansisharma31/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
